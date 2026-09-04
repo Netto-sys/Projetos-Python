@@ -13,4 +13,7 @@ custo = consumomensal * 0.75
 # Saida 
 print(f"Aparelho: {aparelho}")
 print(f"Consumo Mensal: {consumomensal:.2f} kWh/mês")
-print(f"Custo: R$ {custo:.2f}")
+if custo > 200:
+    print(f"O custo mensal do {aparelho} é de R$ {custo:.2f}, cuidado com a conta de luz!")
+else:
+    print(f"O custo mensal do {aparelho} é de R$ {custo:.2f}, está dentro do esperado.")
