@@ -1,4 +1,4 @@
-# Projeto: Consumo mensal de aparelho eletrodoméstico <div style="display: inline_block"><br>
+# Projeto: Consumo mensal de aparelho eletrodoméstico<div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
 Este projeto foi feito em Python. Ele funcionará como uma calculadora de gastos sobre um eletrodoméstico informado pelo usuário.<br>
